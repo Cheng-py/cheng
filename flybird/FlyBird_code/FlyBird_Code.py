@@ -172,6 +172,7 @@ if __name__ == '__main__':
     die_music = 1  # 添加控制死亡音效的条件
     run = True
     while run:
+        # 循环主体
 
         clock.tick(60)  # 每秒执行60次
 
